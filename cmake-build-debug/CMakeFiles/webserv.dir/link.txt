@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/webserv.dir/server.cpp.o CMakeFiles/webserv.dir/client.cpp.o  -o webserv 
